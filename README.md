@@ -1,3 +1,5 @@
 # shyam16102001.github.io
-Web Portfolio of me.
-<a href"https://shyam16102001.github.io/>M.S.M.</a>
+This my Web Portfolio.
+Feedback about this site is always welcome.
+Thanking You,
+M.S.M.
