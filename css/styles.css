@@ -1,0 +1,22 @@
+body{
+	margin: 2%;
+	border: 3px solid white;
+	background-color: #b3b3b3;
+	text-align: center;
+}
+h1{
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 500%;
+}
+p{
+	font-size: 150%
+}
+
+h2{
+	color: #090875;
+	font-size: 200%;
+}
+img{
+	width: 90%
+}
