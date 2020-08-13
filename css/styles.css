@@ -1,6 +1,6 @@
 body{
-	margin: 2%;
-	border: 3px solid white;
+	margin: 1%;
+	border: 5px solid black;
 	background-color: #b3b3b3;
 	text-align: center;
 }
@@ -8,14 +8,17 @@ h1{
 	background-color: #000000;
 	color: #ffffff;
 	font-size: 500%;
+	border: 5px solid white;
 }
 p{
-	font-size: 150%
+	font-size: 150%;
+	font-family: MONOSPACE;
 }
 
 h2{
 	color: #090875;
 	font-size: 200%;
+	font-style: italic;
 }
 img{
 	width: 90%;
