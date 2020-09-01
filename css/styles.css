@@ -22,9 +22,10 @@ h2{
 	font-style: italic;
 }
 img{
+	display: none;
 	width: 80%;
 }
-@media screen and (min-width: 900px){
+@media screen and (min-width: 500px){
 	img{
 		display: inline-block;
 	}
