@@ -22,10 +22,20 @@ h2{
 	font-style: italic;
 }
 img{
-	display: none;
 	width: 80%;
+	display: none;
 }
-@media screen and (min-width: 500px){
+
+@media print{
+	img{
+		display: none;
+	}
+	body{
+		display: none;
+	}
+}
+
+@media screen and (min-width: 700px){
 	img{
 		display: inline-block;
 	}
