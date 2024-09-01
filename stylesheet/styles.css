@@ -575,6 +575,7 @@ img {
 .qualification_active {
   color: var(--title-color-dark);
   font-weight: var(--font-semi-bold);
+  text-decoration: underline;
 }
 
 .qualification_section {
@@ -687,12 +688,6 @@ img {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-1-5);
-}
-
-.contact_info {
-  display: grid;
-  grid-template-columns: repeat(3, 300px);
-  gap: 1rem;
 }
 
 .contact_card {
